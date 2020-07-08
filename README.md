@@ -35,7 +35,7 @@ Criar uma plataforma online(mobile app) que atenda às demandas da iniciativa
 
 As principais demandas são:
 
-- abriguar as informações pessoais das meninas, mentores e parceiros (‘perfis’)
+- abrigar as informações pessoais das meninas, mentores e parceiros (‘perfis’)
 - listar oportunidades de emprego (‘vagas’)
 - conectar meninas a mentores (‘match'), através de:
   + informações pessoais das meninas (habilidades, interesses)
