@@ -33,15 +33,15 @@ Criar uma sociedade em que todos os jovens tenham chances para realizar seus pro
    
 Criar uma plataforma online(mobile app) que atenda às demandas da iniciativa
 
-As principais demandas seriam:
+As principais demandas são:
 
-- abrigue as informações pessoais das meninas, mentores e parceiros (‘perfis’)
+- abriguar as informações pessoais das meninas, mentores e parceiros (‘perfis’)
 - listar oportunidades de emprego (‘vagas’)
-- conecte meninas a mentores (‘match'), através de:
+- conectar meninas a mentores (‘match'), através de:
   + informações pessoais das meninas (habilidades, interesses)
   + área de atuação de mentores
 
-- conecte meninas às vagas (‘match'), através de:
+- conectar meninas às vagas (‘match'), através de:
   + informações pessoais das meninas (habilidades, interesses)
   + localização geográfica
   + requisitos de vagas
