@@ -42,22 +42,3 @@ A motivação reside em destinar os recursos - que serão investidos ao trabalho
 Criar uma plataforma online que atenda às demandas da iniciativa
 
  - 4: Referências:  
-
-
-
-# 2ª Quinzena de maio
-
- 
-
-
-# 1ª Quinzena de junho
- 
-
- 
-
-# 2ª Quinzena de junho
-
- 
-
-
-# 1ª Quinzena de julho
