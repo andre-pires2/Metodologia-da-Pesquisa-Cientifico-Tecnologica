@@ -16,6 +16,7 @@ RA: 1460281823005
 #### Projeto Mundo Aflora
 
 O instituto Mundo Aflra busca efetivar a reintegração de jovens em medidas socioeducativas que já estiveram ou estão em privação de liberdade, encaminhando para oportunidades dentro e fora dos centros para fazer novas escolhas.
+O Instituto Mundo Aflora acredita que somos todos iguais, mas com diferentes oportunidades e escolhas. Por isso, oferece possibilidades para que meninas que estão ou estiveram em medidas socioeducativas possam ser cidadãs ativas e agentes transformadoras.
    
  - 2: Motivação:  
    
