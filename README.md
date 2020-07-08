@@ -10,24 +10,14 @@ Aluno: Andre de Souza Andrade Pires
 RA: 1460281823005  
 
  
-
-# 1ª Quinzena de maio
   
 - 1: Problema:  
-
-#### A Revolta da Lâmpada 
-
-O coletivo A Revolta da Lâmpada é uma associação de pessoas que lutam pela garantia de liberdade a todas as pessoas, principalmente àquelas cujos corpos são percebidos como inadequados pelo modelo hegemônico.
-
-[Mais informações](https://www.cartacapital.com.br/sociedade/a-revolta-da-lampada-4063/)
 
 #### Projeto Mundo Aflora
 
 O instituto Mundo Aflra busca efetivar a reintegração de jovens em medidas socioeducativas que já estiveram ou estão em privação de liberdade, encaminhando para oportunidades dentro e fora dos centros para fazer novas escolhas.
 
 Ambas as iniciativas carecem de ferramentas tecnológicas que facilitem e viabilizem suas operações.
-
-[Mais informações](https://mundoaflora.org/)
    
  - 2: Motivação:  
    
@@ -42,3 +32,5 @@ A motivação reside em destinar os recursos - que serão investidos ao trabalho
 Criar uma plataforma online que atenda às demandas da iniciativa
 
  - 4: Referências:  
+
+https://mundoaflora.org/
