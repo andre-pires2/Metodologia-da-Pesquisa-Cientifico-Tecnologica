@@ -31,7 +31,20 @@ Criar uma sociedade em que todos os jovens tenham chances para realizar seus pro
   
  - 3: Proposta de Solução:  
    
-Criar uma plataforma online que atenda às demandas da iniciativa
+Criar uma plataforma online(mobile app) que atenda às demandas da iniciativa
+
+As principais demandas seriam:
+
+- abrigue as informações pessoais das meninas, mentores e parceiros (‘perfis’)
+- listar oportunidades de emprego (‘vagas’)
+- conecte meninas a mentores (‘match'), através de:
+  + informações pessoais das meninas (habilidades, interesses)
+  + área de atuação de mentores
+
+- conecte meninas às vagas (‘match'), através de:
+  + informações pessoais das meninas (habilidades, interesses)
+  + localização geográfica
+  + requisitos de vagas
 
  - 4: Referências:  
 
